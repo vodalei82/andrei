@@ -1,0 +1,15 @@
+
+# Default ignored files
+/.idea/workspace.xml
+/.idea/.name
+/.idea/compiler.xml
+/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml
+/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml
+/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/project_Andrei.iml
+/.idea/artifacts/project_Andrei_war.xml
+/.idea/artifacts/project_Andrei_war_exploded.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
